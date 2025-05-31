@@ -44,7 +44,8 @@ You can rotate the input bits using switches `SW8–SW10`, and observe the resul
 📂 barrel_shifter<br/>
 ├── barrel_shifter.sv # Barrel shifter module (core logic)<br/>
 ├── constraints.xdc # Xilinx constraints file for pin assignments<br/>
-├── /src # Source files<br/>
+├── schematic.png<br/>
+├── FPGA Implementation<br/>
 ├── /bitstream # (Optional) Bitstream file for programming FPGA<br/>
 └── README.md # This documentation<br/>
 
