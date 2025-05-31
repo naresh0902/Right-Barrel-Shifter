@@ -46,7 +46,7 @@ You can rotate the input bits using switches `SW8–SW10`, and observe the resul
 ├── constraints.xdc # Xilinx constraints file for pin assignments<br/>
 ├── schematic.png<br/>
 ├── FPGA Implementation,mp4<br/>
-├── /bitstream # (Optional) Bitstream file for programming FPGA<br/>
+├── barrel_shifter.bit  # (Optional) Bitstream file for programming FPGA<br/>
 └── README.md # This documentation<br/>
 
 
